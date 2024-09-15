@@ -1,23 +1,25 @@
-# src here,
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Owner](https://img.shields.io/badge/-Owner-blue?style=for-the-badge)
 
-Hey there! I'm **blzsrc** and I'm the owner of **src**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=8000&pause=&color=F7F7F7&random=true&width=435&lines=srcf+%7C+Bio-Link)](https://git.io/typing-svg)
 
-## About Me
+<img align="left" src="https://files.catbox.moe/bnm05t.png" width="147" alt="Profile Image" /> 
 
-- 🧙‍♂️ **Skills**: 
-    - **Python** - Been learning python and started making shit
-    - **Automation** - I like making life easy and urs to ig
-    - **Scripting** - idek why but i just like it
 
-## Badges and Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blzsr&show_icons=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blzsr&layout=compact&theme=dracula)
+```powershell
+github.com/b1lzsr
+```
+```php
+discord   $  @b7lz
+srv  $  [discord.gg/src](https://discord.gg/4s88g4cYMq)
+```
+## 
+&zwnj;
+&zwnj;
 
-## Let's Connect!
-- **[GitHub](https://github.com/blzsrc)**: Follow me here on GitHub for the latest updates and projects.
-- **[Discord](https://discord.gg/DXWEb8Sh)** Join .src discord server its a place where i release my tools.
+<div align="center">
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/1231182903355117599?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF)](https://discord.com/users/1177497949601812512)
+</div>
