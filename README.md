@@ -20,5 +20,5 @@ srv  $  [discord.gg/src](https://discord.gg/4s88g4cYMq)
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF)](https://discord.com/users/1231182903355117599)
+[![Discord Presence](https://api.lanyard.rest/v1/users/:1231182903355117599))
 </div>
